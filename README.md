@@ -33,9 +33,9 @@ Rotate the image using angle function
 
 ## Program:
 
-Developed By: SANTHANA LEKSHMI K
+Developed By: HARITHA SHREE
 
-Register Number: 212222240091
+Register Number: 212222230046
 
 i)Original Image:
 
@@ -154,44 +154,44 @@ plt.show()
 ## Output:
 ### i)Original Image
 
-![2024-09-25 (12)](https://github.com/user-attachments/assets/2a42bb3f-fc57-411d-becc-24afe49e8377)
+![2024-10-01](https://github.com/user-attachments/assets/7aa31955-b12e-43a5-8b08-6980d749c4c4)
 
 
 ### ii)Image Translation
 
 
-![2024-09-25 (13)](https://github.com/user-attachments/assets/b13edfb6-5353-43ab-a9ae-3256a3f2d7f2)
+![2024-10-01 (3)](https://github.com/user-attachments/assets/5f8dfafa-d1ba-4772-8017-230712fdfe4a)
 
 
 ### iii) Image Scaling 
 
 
-![2024-09-25 (14)](https://github.com/user-attachments/assets/51bc7388-ad97-49db-aaac-5c2b0bd00f0f)
+![2024-10-01 (4)](https://github.com/user-attachments/assets/96115b70-0640-4de9-8f14-d11a3a6eb871)
 
 
 
 ### iv)Image shearing
 
 
-![2024-09-25 (15)](https://github.com/user-attachments/assets/b6c7eab0-9143-4de4-96c7-4a6f7bdc6920)
+![2024-10-01 (5)](https://github.com/user-attachments/assets/7fc2e9b2-7ff0-4d06-b445-11ae68eb63b7)
 
 
 ### v)Image Reflection
 
 
-![2024-09-25 (16)](https://github.com/user-attachments/assets/7360e5a1-79ac-466b-a159-b0a22d7b6a06)
+![2024-10-01 (11)](https://github.com/user-attachments/assets/281da8ce-6e4c-4dbc-ad76-5d54c43a787c)
 
 
 ### vi)Image Rotation
 
+![2024-10-01 (12)](https://github.com/user-attachments/assets/3e0e02aa-ac9b-4e86-8dbd-f2acd73c7db7)
 
-![2024-09-25 (17)](https://github.com/user-attachments/assets/1fa49594-4c55-4162-8b01-713c4432ced6)
 
 
 ### vii)Image Cropping
 
 
-![2024-09-25 (18)](https://github.com/user-attachments/assets/7519c5d7-dacb-4ca2-8cdd-ba8164ea94d4)
+![2024-10-01 (13)](https://github.com/user-attachments/assets/4782532b-eb1f-4d41-9cc1-22e0822cf58b)
 
 
 
